@@ -1,8 +1,0 @@
-# No external dependencies are required for this project.
-# TicTacToeAI only uses Python's built-in standard library modules:
-#   - os
-#   - time
-#   - math
-#   - typing
-#
-# Recommended Python version: 3.8+
