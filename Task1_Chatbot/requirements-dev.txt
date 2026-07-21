@@ -1,0 +1,4 @@
+# Development/testing dependencies (not required to run the chatbot itself).
+# Install with: pip install -r requirements-dev.txt
+
+pytest>=7.4
