@@ -1,6 +1,0 @@
-# No external dependencies are required for this project.
-# PyBot only uses Python's built-in standard library modules:
-#   - random
-#   - datetime
-#
-# Recommended Python version: 3.8+
