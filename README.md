@@ -1,4 +1,4 @@
-# CODSOFT Artificial Intelligence Internship – Tasks by Mohanapriya J T
+# CODSOFT Artificial Intelligence Internship – Tasks by Sagana T
 
 This repository contains the projects completed as part of the **CodSoft Artificial Intelligence Internship**. Each task demonstrates the implementation of AI concepts using Python with clean code, documentation, and beginner-friendly project structure.
 
