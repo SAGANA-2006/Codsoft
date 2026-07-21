@@ -10,7 +10,7 @@ A terminal-based chatbot developed using Python that interacts with users throug
 ### ✅ Task 2: Tic-Tac-Toe AI
 A console-based Tic-Tac-Toe game featuring an unbeatable AI opponent implemented using the **Minimax Algorithm with Alpha-Beta Pruning**. The game includes input validation, replay functionality, and an interactive terminal interface.
 
-### ✅ Task 4: Movie Recommendation System
+### ✅ Task 3: Movie Recommendation System
 A content-based movie recommendation system built using Python and machine learning libraries. It recommends similar movies based on movie features using text vectorization and cosine similarity.
 
 ## 📁 Folder Structure
